@@ -1,2 +1,8 @@
 # doxie
 ayioo
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x2Db8201ad49E09671CeF6B8195CE700A4b799F15'
+quorum: 1
